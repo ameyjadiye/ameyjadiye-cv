@@ -9,4 +9,4 @@ docker run --rm -i -v "$PWD":/data latex pdflatex resume.tex
 
 ### Preview
 
-![Resume Screenshot](/resume.png)
+![Resume Screenshot](preview-images/resume-1.png)
