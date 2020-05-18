@@ -30,9 +30,9 @@ gpg: Good signature from "Amey Jadiye <ameyjadiye@gmail.com>" [ultimate]
 ```
 <table>
 <tr>
-<td>![Resume Screenshot](preview-images/resume-1.png)</td><td>![Resume Screenshot](preview-images/resume-2.png)</td>
+<td><img src="preview-images/resume-1.png" /></td><td><img src="preview-images/resume-2.png" /></td>
 </tr>
 <tr>
-<td>![Resume Screenshot](preview-images/resume-3.png)</td><td>![Resume Screenshot](preview-images/resume-4.png)</td>
+<td><img src="preview-images/resume-3.png" /></td><td><img src="preview-images/resume-4.png" /></td>
 </tr>
 </table>
