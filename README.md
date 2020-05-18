@@ -29,4 +29,5 @@ gpg:                using RSA key A5A59EEF6B16B04E38B953A7138008971403E215
 gpg: Good signature from "Amey Jadiye <ameyjadiye@gmail.com>" [ultimate]
 ```
 
-![Resume Screenshot](preview-images/resume-1.png)
+|![Resume Screenshot](preview-images/resume-1.png)|![Resume Screenshot](preview-images/resume-2.png)
+|![Resume Screenshot](preview-images/resume-3.png)|![Resume Screenshot](preview-images/resume-4.png)
