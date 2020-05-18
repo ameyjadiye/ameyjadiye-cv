@@ -28,6 +28,11 @@ gpg: Signature made Monday 18 May 2020 11:32:37 PM IST
 gpg:                using RSA key A5A59EEF6B16B04E38B953A7138008971403E215
 gpg: Good signature from "Amey Jadiye <ameyjadiye@gmail.com>" [ultimate]
 ```
-
-|![Resume Screenshot](preview-images/resume-1.png)|![Resume Screenshot](preview-images/resume-2.png)|
-|![Resume Screenshot](preview-images/resume-3.png)|![Resume Screenshot](preview-images/resume-4.png)|
+<table>
+<tr>
+<td>![Resume Screenshot](preview-images/resume-1.png)</td><td>![Resume Screenshot](preview-images/resume-2.png)</td>
+</tr>
+<tr>
+<td>![Resume Screenshot](preview-images/resume-3.png)</td><td>![Resume Screenshot](preview-images/resume-4.png)</td>
+</tr>
+</table>
