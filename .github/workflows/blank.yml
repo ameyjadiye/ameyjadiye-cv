@@ -33,3 +33,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           docker build -t latex .
+          docker run --rm -i -v "$PWD":/data latex pdflatex resume.tex
+
